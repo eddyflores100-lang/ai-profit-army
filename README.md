@@ -1,3 +1,5 @@
+> ⚠️ **PROYECTO MIGRADO** → continúa en **[alicelabs-llc/ai-profit-army](https://github.com/alicelabs-llc/ai-profit-army)**
+
 # AI Profit Army
 
 Sistema completo de monetización con IA sin publicidad. Proyecto activo con landing page desplegada y 61 workflows n8n comerciales listos para venta.
